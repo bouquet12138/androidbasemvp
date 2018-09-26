@@ -4,7 +4,7 @@ package com.example.xiaohan.mvpmobile.base;
  * Created by xiaohan on 2018/9/26.
  */
 
-public class MVPBasePresent<V extends IMVPBaseView> {
+public class MVPBasePresenter<V extends IMVPBaseView> {
 
     /**
      * 绑定的view
